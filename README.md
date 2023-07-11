@@ -6,6 +6,31 @@ More information on how to use Kubefirst, the company, and kubefirst, the produc
 
 Before using our brand ensure you had confirmation from our team by contact us by [email](mailto:info@kubefirst.io).
 
+## Important Links
+
+### Main
+
+- Website: <https://kubefirst.io>
+- Blog: <https://kubefirst.io/blog/>
+- YouTube: <https://www.youtube.com/@kubefirst>
+- Slack Community: <https://kubefirst.io/slack>
+
+### Product Related
+
+- GitHub: <https://github.com/kubefirst/kubefirst/>
+- Documentations: <https://docs.kubefirst.io>
+
+### Social Media
+
+- Twitter: <https://twitter.com/kubefirst>
+- LinkedIn: <https://www.linkedin.com/company/kubefirst/>
+- Instagram: <https://www.instagram.com/kubefirst>
+
+### Others
+
+- CNCF Landscape: <https://landscape.cncf.io/card-mode?grouping=category&selected=kubefirst>
+- Public Speakers @ kubefirst: <https://github.com/kubefirst/speaking/>
+
 ## Description
 
 No modifications are allowed, including truncation of longer versions. If you need a different length or a description of kubefirst with a specific focus, [let us know](mailto:info@kubefirst.io).
