@@ -1,6 +1,6 @@
 # Kubefirst branding
 
-![Kubefirst Logo](logo/kubefirst-light-vertical.svg#gh-dark-mode-only)![Kubefirst Logo](logo/kubefirst-dark.svg-vertical#gh-light-mode-only)
+![Kubefirst Logo](logo/kubefirst-light-vertical.svg#gh-dark-mode-only)![Kubefirst Logo](logo/kubefirst-dark-vertical.svg#gh-light-mode-only)
 
 More information on how to use Kubefirst, the company, and kubefirst, the product branding will be added here soon.
 
