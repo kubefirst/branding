@@ -4,7 +4,13 @@
 
 More information on how to use Kubefirst, the company, and kubefirst, the product branding will be added here soon.
 
-Before using our brand ensure you had confirmation from our team by contact us by [email](mailto:info@kubefirst.io).
+Before using our brand (except for the repository badges) ensure you had confirmation from our team by contact us by [email](mailto:info@kubefirst.io).
+
+- [Important Links](#important-links)
+- [Company Description](#company-description)
+- [Company History](#company-history)
+- [Logos](#logos)
+- [Repository Badges](#repository-badges)
 
 ## Important Links
 
@@ -31,7 +37,7 @@ Before using our brand ensure you had confirmation from our team by contact us b
 - CNCF Landscape: <https://landscape.cncf.io/card-mode?grouping=category&selected=kubefirst>
 - Public Speakers @ kubefirst: <https://github.com/kubefirst/speaking/>
 
-## Description
+## Company Description
 
 No modifications are allowed, including truncation of longer versions. If you need a different length or a description of kubefirst with a specific focus, [let us know](mailto:info@kubefirst.io).
 
@@ -53,7 +59,7 @@ All applications are managed by Argo CD using a single GitOps Git repository tha
 
 All in all, kubefirst is your one-stop tool to create production-ready Kubernetes platforms in minutes instead of months, so that teams of any size can instantly leverage the value that Kubernetes provides by starting with the most popular tools and adjusting the platform from there.
 
-## History
+## Company History
 
 In 2017, [John Dietz](https://github.com/kubefirst/speaking/blob/main/speakers/john.md) and [Jared Edwards](https://github.com/kubefirst/speaking/blob/main/speakers/jared.md) met while working together on a cloud engineering team at a real estate big data startup. They were tasked with building an infrastructure management platform and application delivery system built entirely on Kubernetes.
 
@@ -61,7 +67,7 @@ Building their first Kubernetes platform together took the better part of a year
 
 Frustrated by the time consuming process, John and Jared began working together during nights and weekends to create an open-source solution to automate the process of platform provisioning, and the kubefirst project was born. In 2022, kubefirst was [acquired by Kubeshop](https://kubefirst.io/blog/kubeshop-acquires-kubefirst-gitops-infrastructure-application-delivery-platform/).
 
-## Logo
+## Logos
 
 When it's possible, we prefer that you use the horizontal version of our logo.
 
