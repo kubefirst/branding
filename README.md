@@ -71,3 +71,29 @@ When it's possible, we prefer that you use the horizontal version of our logo.
 - [White text (vertical)](logo/kubefirst-light-vertical.svg)
 
 Those are vector SVG files, but if you need another format, or an image of specific dimensions, [let us know](mailto:info@kubefirst.io): we will send you the requested format(s) or size(s).
+
+## Repository Badges
+
+If you want to show your support with a badge on your repository, as in "powered by kubefirst", you can use the following badges.
+
+![Powered by kubefirst](logo/badge-dark.svg#gh-dark-mode-only)![Powered by kubefirst](logo/badge-light.svg#gh-light-mode-only)
+
+- [Badge for dark background](logo/badge-dark.svg)
+- [Black for light background](logo/badge-light.svg)
+
+Here's a code snippet you can use to do so:
+
+```markdown
+![Powered by kubefirst](logo/badge-dark.svg#gh-dark-mode-only)![Powered by kubefirst](logo/badge-light.svg#gh-light-mode-only)
+```
+
+Here's one using HTML:
+
+```html
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="badge-dark.svg" alt="Kubefirst Logo">
+    <img alt="" src="badge-light.svg">
+</picture>
+```
+
+_You can add HTML inside your README Markdown file, useful if you want to center them as example._
