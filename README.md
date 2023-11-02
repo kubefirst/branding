@@ -69,6 +69,8 @@ Frustrated by the time consuming process, John and Jared began working together 
 
 ## Logos
 
+Our logo is a combination of the name of the company, which is also the name of our product, and our mascot, named K-Ray. K-Ray is a beautiful, and friendly manta ray voyaging in the cloud native space.
+
 When it's possible, we prefer that you use the horizontal version of our logo.
 
 - [Black text (horizontal)](logo/kubefirst-dark.svg)
