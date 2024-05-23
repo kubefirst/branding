@@ -41,15 +41,21 @@ Before using our brand (except for the repository badges) ensure you had confirm
 
 No modifications are allowed, including truncation of longer versions. If you need a different length or a description of kubefirst with a specific focus, [let us know](mailto:info@kubefirst.io).
 
-### Short (23 words - 182 characters)
+### Short
+
+> 23 words, 1 sentence, 182 characters
 
 kubefirst provides fully automated open source application delivery and infrastructure management GitOps platforms delivering the best cloud native tools working together in minutes.
 
-### Medium (76 words - 508 characters)
+### Medium
+
+> 76 words, 3 sentences, 508 characters
 
 kubefirst provides fully automated open source application delivery and infrastructure management GitOps platforms delivering the best cloud native tools working together in minutes. Supporting Amazon Web Service (AWS), Google Cloud, Civo, DigitalOcean, and Vultr clouds, you have the choice to use GitHub or GitLab as your Git provider. Using the CLI or the simple UI, you will end up with a full-fledged production ready Kubernetes cluster with tools like Argo CD, HashiCorp Vault, Terraform, and Atlantis.
 
-### Long (460 words - 1325 characters)
+### Long
+
+> 460 words, 7 sentences, 1325 characters
 
 kubefirst provides fully automated open source application delivery and infrastructure management GitOps platforms delivering the best cloud native tools working together in minutes.
 
