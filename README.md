@@ -34,7 +34,7 @@ Before using our brand (except for the repository badges) ensure you had confirm
 
 ### Others
 
-- CNCF Landscape: <https://landscape.cncf.io/card-mode?grouping=category&selected=kubefirst>
+- CNCF Landscape: <https://landscape.cncf.io/?item=provisioning--automation-configuration--kubefirst>
 - Public Speakers @ kubefirst: <https://github.com/kubefirst/speaking/>
 
 ## Company Description
